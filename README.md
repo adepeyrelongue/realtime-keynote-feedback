@@ -1,4 +1,4 @@
-# realtime-keynote-feedback-2
+# Realtime Keynote Feedback
 
 Realtime keynote feedback est une application Web qui permet d'analyser l'attention d'un auditoire à partir de vidéos.
 L'application propose un reporting détaillée de l'évolution de l'attention de l'auditoire.
